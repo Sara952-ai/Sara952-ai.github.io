@@ -1,0 +1,135 @@
+PK     φaΧZΝI={  {  
+   index.html
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <title>The Pink Chapter </title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Outfit', sans-serif;
+            background-color: #fff7f4;
+            color: #4a4a4a;
+        }
+
+        header {
+            background-color: #f3d9dc;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3em;
+            color: #d66fa1;
+            margin: 0;
+        }
+
+        .intro {
+            text-align: center;
+            margin: 30px auto;
+            max-width: 700px;
+            font-size: 1.2em;
+        }
+
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 30px;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            overflow: hidden;
+            width: 250px;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .card img {
+            width: 100%;
+            height: 170px;
+            object-fit: cover;
+        }
+
+        .card-content {
+            padding: 15px;
+        }
+
+        .card-content h3 {
+            margin-top: 0;
+            font-size: 1.3em;
+            color: #d66fa1;
+        }
+
+        .card-content a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #d66fa1;
+            padding: 8px 15px;
+            border-radius: 10px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #fceff3;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Curly Style</h1>
+    </header>
+    <section class="intro">
+        ΞΞ±Ξ»Ο‰ΟƒΟΟΞΉΟƒΞµΟ‚ ΟƒΟ„ΞΏΞ½ girly ΞΊΟΟƒΞΌΞΏ Ο„ΞΏΟ… Curly Style β¨ β€” Ξ³ΞΉΞ± skincare, fashion, ΟƒΟ‡ΞΏΞ»ΞµΞ―ΞΏ, Ξ±ΟΟΞΌΞ±Ο„Ξ± ΞΊΞ±ΞΉ Ο,Ο„ΞΉ ΟƒΞµ ΞµΞΊΟ†ΟΞ¬Ξ¶ΞµΞΉ!
+    </section>
+    <section class="grid">
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1589987607627-248e5f8f33e3" alt="Skincare">
+            <div class="card-content">
+                <h3>Skincare Tips</h3>
+                <a href="#">Ξ”ΞΉΞ¬Ξ²Ξ±ΟƒΞµ</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1535909339361-9e7f53b6d6d1" alt="Fashion">
+            <div class="card-content">
+                <h3>Fashion Trends</h3>
+                <a href="#">Ξ”ΞΉΞ¬Ξ²Ξ±ΟƒΞµ</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1598032894208-e65d69b45852" alt="School life">
+            <div class="card-content">
+                <h3>Ξ£Ο‡ΞΏΞ»ΞΉΞΊΞ® Ξ–Ο‰Ξ®</h3>
+                <a href="#">Ξ”ΞΉΞ¬Ξ²Ξ±ΟƒΞµ</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1556228453-efd4bced6f5b" alt="Perfumes">
+            <div class="card-content">
+                <h3>Ξ‘ΟΟΞΌΞ±Ο„Ξ± Ο€ΞΏΟ… ΞΌΞ±Ξ³ΞµΟΞΏΟ…Ξ½</h3>
+                <a href="#">Ξ”ΞΉΞ¬Ξ²Ξ±ΟƒΞµ</a>
+            </div>
+        </div>
+    </section>
+    <footer>
+        Β© 2025 Curly Style β€Ά Designed with love for all clean girls π’–
+    </footer>
+</body>
+</html>
+PK     φaΧZΝI={  {  
+           ¤    index.htmlPK 
